@@ -22,8 +22,7 @@ Then some parts of the arm weren’t working and some didn't have the motion ran
 The next step is to connect to bluetooth. And one thing that can be improved on the robot arm is that right now the servo only spins at its ma
 ximum speed, and only moves when the joystick exceeds a certain angle, which is basically when it’s all the way to the side. I would like to maybe write my own code so that the joysticks work like actual joysticks, where the angle of the joystick controls the speed the servo is rotating. This way, the robot arm will be easier to control, make more precise movement, and move more smoothly. 
 
-
-[BlueStamp Robot Arm Project Milestone 1](https://i.ytimg.com/vi/2OmYGRiQO98/maxresdefault.jpg)](https://youtu.be/2OmYGRiQO98 "BlueStamp Robot Arm Project Milestone 1")
+(![BlueStamp Robot Arm Project Milestone 1](https://i.ytimg.com/vi/2OmYGRiQO98/maxresdefault.jpg)](https://youtu.be/2OmYGRiQO98 "BlueStamp Robot Arm Project Milestone 1")
 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
