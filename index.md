@@ -27,7 +27,7 @@ ximum speed, and only moves when the joystick exceeds a certain angle, which is 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone] (![BlueStamp Robot Arm Project Milestone 1](https://i.ytimg.com/vi/2OmYGRiQO98/maxresdefault.jpg)](https://youtu.be/2OmYGRiQO98 "BlueStamp Robot Arm Project Milestone 1")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656604288/video_to_markdown/images/youtube--irIIvKyG0IE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=irIIvKyG0IE "")
 
 
 # Starter Project
