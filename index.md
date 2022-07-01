@@ -16,7 +16,7 @@ Then some parts of the arm weren’t working and some didn't have the motion ran
 The next step is to connect to bluetooth. And one thing that can be improved on the robot arm is that right now the servo only spins at its ma
 ximum speed, and only moves when the joystick exceeds a certain angle, which is basically when it’s all the way to the side. I would like to maybe write my own code so that the joysticks work like actual joysticks, where the angle of the joystick controls the speed the servo is rotating. This way, the robot arm will be easier to control, make more precise movement, and move more smoothly. 
 
-![BlueStamp Robot Arm Project Milestone 1][![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)]
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 
 # Second Milestone
 I spent the first half of today and afternoon of last Friday making the bluetooth control app for the arm claw. Now the robot arm can be controlled by an app on an android phone with bluetooth connection. 
