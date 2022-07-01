@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Bluetooth Controlled Robot Arm
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -23,7 +23,7 @@ I spent the first half of today and afternoon of last Friday making the bluetoot
 The packet comes with source code but I don’t have the android app. So I used MIT App Inventor to make my own app. The app I made didn't go well with the code so we had to change the code. I didn’t know how to make a bluetooth connection button on my app so I got help from my classmate. I also couldn’t figure out why the code doesn’t work with the app and I got a lot of help from my instructor. 
 Through this experience, I learned how to use MIT App Inventor, and I learned programming on Arduino. 
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656604288/video_to_markdown/images/youtube--irIIvKyG0IE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=irIIvKyG0IE "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656604288/video_to_markdown/images/youtube--irIIvKyG0IE-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 
 
 # Starter Project
