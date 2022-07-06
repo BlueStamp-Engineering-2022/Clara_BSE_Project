@@ -1,5 +1,5 @@
 ﻿# Bluetooth Controlled Robot Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This is a robot arm with 6 movable joints that can be controlled by joysticks and an app on an android device via bluetooth. It can do tasks such as waving and picking up stuff. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
