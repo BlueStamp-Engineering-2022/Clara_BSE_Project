@@ -33,7 +33,7 @@ The challenge was that I first put the switch on the wrong side, and then I stuf
 
 ![Starter Project - Useless Machine](https://res.cloudinary.com/marcomontalbano/image/upload/v1656087559/video_to_markdown/images/youtube--6KiQ8fqsXjA-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 
-(https://drive.google.com/file/d/1C_UoR91aRGT0bkN_6skxmep8xMgzb3ox/view?usp=sharing)
+![](https://drive.google.com/file/d/1C_UoR91aRGT0bkN_6skxmep8xMgzb3ox/view?usp=sharing)
 
 https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step
 
