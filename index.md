@@ -32,3 +32,5 @@ Today I started by working on my starter project: a useless machine. We first le
 The challenge was that I first put the switch on the wrong side, and then I stuffed all the holes for the LED light, then I had to push the LED light in while heating the holes. The main issue was that for some reason, in order to have the little handle to roll up and push the switch, the switch cannot go all the way. We didn’t figure out why but we ended up solving this problem by putting together some metal wire and duct tapes to stop the switch from going all the way. The hardest part was the final assembly. It was hard to screw the little box together. 
 
 ![Starter Project - Useless Machine](https://res.cloudinary.com/marcomontalbano/image/upload/v1656087559/video_to_markdown/images/youtube--6KiQ8fqsXjA-c05b58ac6eb4c4700831b2b3070cd403.jpg)
+
+https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step
