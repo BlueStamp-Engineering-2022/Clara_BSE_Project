@@ -28,7 +28,7 @@ Through this experience, I learned how to use MIT App Inventor, and I learned pr
 **Laser Cut Parts Design**
 ![Laser Cut Parts Design](https://lh3.googleusercontent.com/TZxWjPHchkxylm7HSZKYm-JtO2rbewmp2qmyUKZq-lT0VD5BMPnT3h2pgGm3RiAhlM6D_Bgykp77j67KISqUl2MtHATCeN-_E2KM9CTUVZ2DfBNBFkW6adAavkcwo0XHUyVjVpXAFFDW-RunBBFqMePPe2_OXCVTadRvtbDyUu5tVFzZHC9A-R0LFurv01pEqUwlZtAoVDLPOQdOlLFNIH4xs0ngsu4z-aLzIRJdUWPk1jNB1F_gfvSIVFUndl4rVh7PCAxhYJkmNv4RO3HCEAaj2bShKUzNAXrXCWHN9ksxQxKdtklaWS8ksCVXR1PFE46P9ri4fObI6_uGp9Wjla_WoOZ37M4toppV8w-JGEbLqeEd6VvXPMcTeg86UjVRU-iZqG5-v4fY68GVoTD_BeUzfsXTiMaSqMDpm8nnz97UpbztRXUIBbSH1Z3vm0hjDrYNGKkeM7veDTP9hlN2g51jOdhTIyXymatK0uoKsQDC4F3sLx3lf9Nbn0ep3tmLMYIKBjw32PqkIlF21-B7JtdwCRAC7GITDAPv958oQQPahGcUetHXUurfQzPGtm2uraVmJtE7jjf8dIYb1rwZ3GmTTuUNLL6sYl0HaiU44aCePnrRYmxBZJcLHUTeD12rBaM1ZQRReYGUB55Fhs3WuKMO0ENs11YC32WFluorViwgLZARIgW0uLOxZsEcFYaPo_4Ro-3bzl6LqYVzeMmG51KvDlMDaceXMx5NnG0A9BLlpd9RUZNjaMjaIvc=w1406-h538-no?authuser=0)
 
-![CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
+[CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
 
 # Starter Project
 
