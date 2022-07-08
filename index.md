@@ -31,7 +31,7 @@ I designed new parts to add two more joints to my bluetooth controlled robot arm
 Then I added new code to the arduino and new buttons to the app on the android device. Besides the buttons that control the basic movements by telling each servo to turn to either direction, I added a “reset” button and a “wave” button. They are programmed to move all the necessary joints with necessary pausing in between to complete the tasks of moving to initial position where all the servo is set at 90 degree (the middle), and lift the claw and twisting left and right to mimic the human hand movement of waving. Now all the available servo connection spots on the arduino are used. 
 
 **Laser Cut Parts Design**
-![Laser Cut Parts Design](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/ExtraJoint.png)
+![Laser Cut Parts Design]()
 
 [CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
 [Bluetooth Control App APK](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/gh-pages/robot_arm_control.apk), created via http://ai2.appinventor.mit.edu/
