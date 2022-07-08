@@ -6,7 +6,7 @@ This is a robot arm with 6 movable joints that can be controlled by joysticks an
 | Clara F | The Athenian School | Rising Senior
 
 
-![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXsK3lNGGu61SQXigdJyIAEo9SjGkfPI22a49oZETByClf-c2qKyyXh5xXfWqGBXRmi4MA_x8g7ikZG8GlxJhH7K0M3Jx50SIMyORBxDius3G_AhSm-57lfM9T5V6V3nLcrN6QhtYGI9XU3lU4Ailrg=s1578-no?authuser=0)
 
 
 # Final Milestone
@@ -26,10 +26,12 @@ Then I added new code to the arduino and new buttons to the app on the android d
 
 [Final Modified Code](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/gh-pages/Lesson_8_Bluetooth_Controlling_Arm.ino)
 
-![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXsK3lNGGu61SQXigdJyIAEo9SjGkfPI22a49oZETByClf-c2qKyyXh5xXfWqGBXRmi4MA_x8g7ikZG8GlxJhH7K0M3Jx50SIMyORBxDius3G_AhSm-57lfM9T5V6V3nLcrN6QhtYGI9XU3lU4Ailrg=s1578-no?authuser=0)
 
 
 # Second Milestone
+
+![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)
+
 I spent the first half of today and afternoon of last Friday making the bluetooth control app for the arm claw. Now the robot arm can be controlled by an app on an android phone with bluetooth connection. 
 The packet comes with source code but I don’t have the android app. So I used MIT App Inventor to make my own app. The app I made didn't go well with the code so we had to change the code. I didn’t know how to make a bluetooth connection button on my app so I got help from my classmate. I also couldn’t figure out why the code doesn’t work with the app and I got a lot of help from my instructor. 
 Through this experience, I learned how to use MIT App Inventor, and I learned programming on Arduino. 
