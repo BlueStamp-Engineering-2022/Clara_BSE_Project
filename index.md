@@ -32,7 +32,7 @@ Then I added new code to the arduino and new buttons to the app on the android d
 
 **Laser Cut Parts Design**
 
-![Laser Cut Parts Design]([https://raw.githubusercontent.com/BlueStamp-Engineering-2022/Clara_BSE_Project/main/ExtraJoint.png](https://lh3.googleusercontent.com/5XnkMzXR1C5j-EfwRLWNEIat0HKmlZypKXgjhoHvf8zmP6gJ92iyrFFcyMfuArw7CskBUgSc6HKi_EkSa_E1CPfFYd8qZ9uEblzFRK850S1QTzPE60xkDMKP7OCkxML353-bhZbk-7umaDlEpDEULkC5421T9IfGxAewGv2uNdD0WY9kUU6l35j29C9Pevgggyhwxu9ALofe9kt4x0a7gmBaEP9ZbVG3QFZa9KhfHb9omhyov-LFyW77Omx7XPUVKBwM0Ov8xjsr-jReLZ7456-_hrRmyONb8u2yBAHPRZJ06m15docdQzYa2JNSCbCG92kC_x9qn9yJm5WB1CWx1FuWwcJ2wgKPKERaWRTXpe7q7HpiKXo86z9qxU5NTK8BmEPJPppCOmXGWGSAUwQbIsnYR1FgrflpKsvJkTgn2w6nZCz8-GdHNhCHRDJ-T2rYnQb194xEmerdx5wc2rrlqqsc88OX9zmjqQVB9mh6-2jtuNcW9hwN8kd3Wjc4VmfWMkvBQFpFWyUjUBbBGIngznTwFPUGC_toS3t64fT-yTmNenQo7lYCAd1TF7NMV9rIxHSRlrSym5y9DUGheuKwhKFK603Qks35dwGMJ6t4v5aOgsUobLwc3-vzbgFb9zoqX7CogFdV6Uux_9iQIrZv0gjVz8_AtT9xxTpFlEPsJbBfLvignkfAWNz2DQd4j9UvK9-wiexMQYcLlEiCJIeVurJ-XITofGK2-mGEVOtf-EbXVQHA45QSJzYsky0=w1406-h538-no?authuser=0))
+![Laser Cut Parts Design](https://lh3.googleusercontent.com/pw/AM-JKLW7ZK8Bd-7vW-QnGk0H5CofKfd227Td_5DqCKpGHMxxC8fPitR_lTqBq8S60XJUAwOhk8dJtZpQLpQD2scJAYxeOKv-oWRkpiTlGnjl-Jw6k74KlGlx8dzUKHjrrYPy46wJAaw57YWeU7043n1bGkUT=w1406-h538-no?authuser=0)
 
 [CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
 
