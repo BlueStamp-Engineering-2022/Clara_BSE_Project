@@ -5,6 +5,10 @@ This is a robot arm with 6 movable joints that can be controlled by joysticks an
 |:--:|:--:|:--:|
 | Clara F | The Athenian School | Rising Senior
 
+
+![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)
+
+
 # Final Milestone
 I designed new parts to add two more joints to my bluetooth controlled robot arm. I first made all the parts of the robot arm in CAD by scanning the parts from the kit and tracing them all. Then I assembled them in CAD. I learned how to assemble stuff in CAD. Then I came up with some idea of how to connect two new servos to the arm. I prototyped with cardboard and measured the dimensions with a caliper. I designed all the parts in Fusion 360 with the dimensions I got and had them laser cut. I tried to assemble the new parts but some of the structures are blocking each other and didn’t work out entirely, so I redesigned some parts and had them laser cut again. Some of them still don’t go together perfectly so I fixed them as much as possible by hand.  
 
@@ -41,8 +45,6 @@ After I uploaded the code to the arduino, it works inconsistently. So we tested 
 Then some parts of the arm weren’t working and some didn't have the motion range as they could mechanically. That was because the servo only moves in a certain range, but the direction the arm part was attached to the servo doesn’t fit into the angle the servo rotates. I reassembled many parts and now it’s working fine. They still don’t fit perfectly, but I think this is an acceptable margin of error. 
 The next step is to connect to bluetooth. And one thing that can be improved on the robot arm is that right now the servo only spins at its ma
 ximum speed, and only moves when the joystick exceeds a certain angle, which is basically when it’s all the way to the side. I would like to maybe write my own code so that the joysticks work like actual joysticks, where the angle of the joystick controls the speed the servo is rotating. This way, the robot arm will be easier to control, make more precise movement, and move more smoothly. 
-
-![](https://res.cloudinary.com/marcomontalbano/image/upload/v1656719699/video_to_markdown/images/youtube--2OmYGRiQO98-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 
 
 
