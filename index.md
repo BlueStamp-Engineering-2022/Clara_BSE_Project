@@ -32,9 +32,9 @@ Then I added new code to the arduino and new buttons to the app on the android d
 
 **Laser Cut Parts Design**
 
-![Laser Cut Parts Design](https://lh3.googleusercontent.com/pw/AM-JKLW7ZK8Bd-7vW-QnGk0H5CofKfd227Td_5DqCKpGHMxxC8fPitR_lTqBq8S60XJUAwOhk8dJtZpQLpQD2scJAYxeOKv-oWRkpiTlGnjl-Jw6k74KlGlx8dzUKHjrrYPy46wJAaw57YWeU7043n1bGkUT=w1406-h538-no?authuser=0)
+![Laser Cut Parts Design](https://lh3.googleusercontent.com/pw/AM-JKLV_BhDR32FPaJbO4aG1HZTbCZk1F0Ca91xopbFTG65nYDutlk4cf3AnJ645-AhL0B5lSM4cNCSNj2ZZvPwOUVhkcelLthz8UVfqwoCtDAI-HeM1RbMlwGJxkieIInuJs00YeRujzJP6Hy4zcYneoBmQ=w1544-h1140-no?authuser=0)
 
-[CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
+[CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v7.f3d)
 
 **Bluetooth Controlled App**
 
