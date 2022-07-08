@@ -36,6 +36,8 @@ Then I added new code to the arduino and new buttons to the app on the android d
 
 [CAD File](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/main/laser%20cut%20parts%20v4.step)
 
+**Bluetooth Controlled App**
+
 [Bluetooth Control App APK](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/gh-pages/robot_arm_control.apk), created via http://ai2.appinventor.mit.edu/
 
 [Final Modified Code](https://github.com/BlueStamp-Engineering-2022/Clara_BSE_Project/blob/gh-pages/Lesson_8_Bluetooth_Controlling_Arm.ino)
